@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Load-consistency-constrained operator learning for fast fluid-structure interaction analysis of control valves"
+authors:
+  - family-names: Xie
+    given-names: Luotao
+  - family-names: Zhang
+    given-names: Lei
+  - family-names: Jiang
+    given-names: Wei
+  - family-names: Zou
+    given-names: Ziyi
+  - family-names: Dai
+    given-names: Dingqiang
+  - family-names: Yang
+    given-names: Zichun
+  - family-names: Chen
+    given-names: Guobing
+preferred-citation:
+  type: article
+  title: "Load-consistency-constrained operator learning for fast fluid-structure interaction analysis of control valves"
+  authors:
+    - family-names: Xie
+      given-names: Luotao
+  year: 2026
+  notes: "Journal and DOI to be updated upon publication."

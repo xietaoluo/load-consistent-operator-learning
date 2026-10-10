@@ -1,0 +1,9 @@
+# Normalise line endings for text; leave binaries untouched
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.cff text eol=lf
+*.txt text eol=lf
+# Binary artifacts
+*.h5 binary
+*.pt binary
